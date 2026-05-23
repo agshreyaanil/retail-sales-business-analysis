@@ -37,10 +37,10 @@ Records: 9,994 orders across 3 product categories, 4 regions, 2014–2017
 ## Dashboard Preview
 
 ### Page 1 — Regional & Category Overview
-![Dashboard Page 1](dashboard_page1.png)
+![Dashboard Page 1](dashboard_page1.png.png)
 
 ### Page 2 — Sub-Category Performance
-![Dashboard Page 2](dashboard_page2.png)
+![Dashboard Page 2](dashboard_page2.png.png)
 
 ## Status
 ✅ BRD  
