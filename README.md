@@ -33,6 +33,14 @@ Records: 9,994 orders across 3 product categories, 4 regions, 2014–2017
 - The West region generated the highest revenue but the Central region had the lowest profit margin
 - Technology category had the highest sales but Office Supplies had the most consistent order volume
 - Discount rates above 20% consistently correlated with negative profit margins
+  
+## Dashboard Preview
+
+### Page 1 — Regional & Category Overview
+![Dashboard Page 1](dashboard_page1.png)
+
+### Page 2 — Sub-Category Performance
+![Dashboard Page 2](dashboard_page2.png)
 
 ## Status
 ✅ BRD  
