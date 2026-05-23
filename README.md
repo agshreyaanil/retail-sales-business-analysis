@@ -47,4 +47,4 @@ Records: 9,994 orders across 3 product categories, 4 regions, 2014–2017
 ✅ User Stories  
 ✅ SQL Queries  
 ✅ Process Map  
-🔄 Power BI Dashboard (in progress)
+✅Power BI Dashboard 
